@@ -73,8 +73,7 @@ export default function Main() {
                 <img className="w-6" src="/assets/icons/right-black.png" alt="" />
               </div>
               <div className="relative">
-              <h2 className=" text-black font-bold">INFORMATION FOR RESPECTIVE STUDENTS</h2>
-              <div className="border-b-2 w-full border-gray-500 absolute bottom-1"></div>
+              <h2 className=" text-black font-bold underline">INFORMATION FOR RESPECTIVE STUDENTS</h2>
               </div>
               </div>
         </div>
