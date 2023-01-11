@@ -26,19 +26,19 @@
       <ul className="bg-[#333333eb] absolute md:top-[9.56rem] top-[4.5rem] text-white w-full z-50 flex flex-col h-[35rem] pl-12">
         <div className="border-b-4 mb-12 border-[#06ace7] w-20"></div>
       <li className="text-2xl py-1 border-b border-dotted border-black hover:bg-[#06ace7]">
-        <Link href="/program">All study programs</Link>
+        <Link className="md:pr-[50rem]" href="/program">All study programs</Link>
       </li>
       <li className="text-2xl py-1 border-b border-dotted border-black hover:bg-[#06ace7]">
-        <Link href="/startOut">Starting out</Link>
+        <Link className="md:pr-[50rem]" href="/startOut">Starting out</Link>
       </li>
       <li className="text-2xl py-1 border-b border-dotted border-black hover:bg-[#06ace7]">
-        <Link href="/study">Study Organization</Link>
+        <Link className="md:pr-[50rem]" href="/study">Study Organization</Link>
       </li>
       <li className="text-2xl py-1 border-b border-dotted border-black hover:bg-[#06ace7]">
-        <Link href="digital">Digital Services</Link>
+        <Link className="md:pr-[50rem]" href="digital">Digital Services</Link>
       </li>
       <li className="text-2xl py-1 border-b border-dotted border-black hover:bg-[#06ace7]">
-        <Link href="/examination">Examination Organization</Link>
+        <Link className="md:pr-[50rem]" href="/examination">Examination Organization</Link>
       </li>
     </ul>
     </section>
