@@ -1,6 +1,6 @@
 export default function Second(){
     return(
-      <div className="bg-white w-20r border-2 border-black md:h-[37rem]">
+      <div className="bg-white md:w-20r w-[22rem] border-2 border-black md:h-[37rem] md:my-0 my-6">
               <div className="flex justify-center pt-6 ">
                 <img className="w-[10rem] h-[10rem] object-fill rounded-[50%]" src="/assets/images/image8.jpg" alt="" />
               </div>
