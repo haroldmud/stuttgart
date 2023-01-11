@@ -1,6 +1,9 @@
 export default function Information(){
   return(
-    <section className="text-white flex justify-center mt-6 bg-bluebg">
+    <>
+    <div className="bg-white h-6">
+    </div>
+    <section className="text-white flex justify-center bg-bluebg">
       <div className="py-14  md:w-10/12 md:pl-0 pl-6">
         <h1 className="font-bold text-2xl">Information for students</h1>
         <div className="grid md:grid-cols-2">
@@ -178,5 +181,6 @@ export default function Information(){
         </div>
       </div>
     </section>
+    </>
   )
 }

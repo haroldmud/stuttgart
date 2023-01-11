@@ -1,6 +1,6 @@
 export default function Footer() {
   return(
-    <section className="mt-6 bg-[#333333]">
+    <section className=" bg-[#333333]">
       <div className="">
         <div className="flex md:w-fit md:flex-row flex-col md:gap-32 py-12 md:pl-24">
           <div className="md:w-[12rem] w-[15rem] ml-4 mb-6">

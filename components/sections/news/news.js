@@ -3,7 +3,7 @@ import Second from "./second"
 import Third from "./third"
 export default function News() {
   return(
-    <section className="bg-low-gray mt-20 flex justify-center">
+    <section className="bg-low-gray flex justify-center">
       <div className="w-10/12">
         <h2 className="md:text-3xl text-2xl text-white font-bold mt-12 mb-6">News and events for students</h2>
         <div className="md:flex justify-center hidden gap-6">
